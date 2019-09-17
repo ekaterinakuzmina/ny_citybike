@@ -1,3 +1,3 @@
 # NYY CityBike project
 
-The whole analysis you can find here [add](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/1.add.py).
+The whole analysis you can find [here](https://github.com/ekaterinakuzmina/ny_citybike/blob/master/ny_citybike_Ekaterina_Kuzmina.ipynb).
