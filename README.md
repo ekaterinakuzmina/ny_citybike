@@ -1,2 +1,3 @@
-# ny_citybike
-Exploratory analysis of the data from NYC CityBike.
+# NYY CityBike project
+
+The whole analysis you can find here.
